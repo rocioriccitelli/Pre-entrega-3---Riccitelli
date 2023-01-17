@@ -1,0 +1,22 @@
+
+
+$font1:'Noticias', sans-serif; 
+$font2:'Sedes', sans-serif; 
+   
+        $color: #018655;
+        h2 {
+            text-align: center;
+            font-size: 50px;
+            text-transform: uppercase;
+          color: white;
+            text-shadow: 5px 5px 10px #333;
+        }
+       h5  { 
+        color: white;
+}
+$lista-fuentes: $f-small, $f-medium, $f-big;
+$lista-colores: green white black yellow;
+
+p { 
+    background: #018655;
+} 
