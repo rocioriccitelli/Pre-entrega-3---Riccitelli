@@ -26,9 +26,20 @@ h5  {
     }
 
 header {height: 30vh; }
-footer {float: inline-start ;}
+footer li {
+ list-style: none;
+color: aliceblue;
+text-decoration: none;}
 p { 
     background: #018655;
 } 
+.footer {
+    float: left;
 
-/*# sourceMappingURL=estilos.css.map */
+}
+h5 {color: #018655;}
+a {color: aliceblue;}
+li {list-style: none;
+text-align: left;}
+
+MappingURL=estilos.css.map */
